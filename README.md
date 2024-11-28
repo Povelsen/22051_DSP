@@ -1,3 +1,3 @@
 # 22051_DSP
 -----------------------
-These files in assignment 1 in course 22051 at DTU, was developed in collaboration with my group, group 23. Therefore there will be code that resembles theirs. The text (the PDF) was written individually.
+These files in assignment 1 in course 22051 at DTU, was developed using Matlab2024b. In Matlab the GUI designer was used to create the 10-band EQ to simulate how a EQ could worked. If you wan't to run the EQ, just download the zip-file and load the files into a Matlab env. From here you just run the tes.m file and you are able to use the EQ.
